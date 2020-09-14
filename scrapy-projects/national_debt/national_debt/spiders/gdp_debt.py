@@ -9,4 +9,14 @@ class GdpDebtSpider(scrapy.Spider):
         'https://worldpopulationreview.com/countries/countries-by-national-debt/']
 
     def parse(self, response):
-        
+        rows = response.xpath("//tbody[@class='jsx-2642336383']/tr")
+        for row in rows:
+            name = row.xpath(".//td[1]/a/text()").get()
+            gdp_debt = row.xpath(".//td[2]/text()").get()
+            population = row.xpath(".//td[3]/text()").get()
+
+            yield {
+                'country_name': name,
+                'gdp_debt': gdp_debt,
+                'population': population
+            }
