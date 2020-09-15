@@ -1,0 +1,402 @@
+[
+    {
+        "currency_pair": "BTC/USDT",
+        "volume(24)": "839 395.88 USDT"
+    },
+    {
+        "currency_pair": "LEVL/USDT",
+        "volume(24)": "17 261.51 USDT"
+    },
+    {
+        "currency_pair": "ONL/USDT",
+        "volume(24)": "1 756.88 USDT"
+    },
+    {
+        "currency_pair": "ETH/USDT",
+        "volume(24)": "989.15 USDT"
+    },
+    {
+        "currency_pair": "USDT/USD",
+        "volume(24)": "709.41 USDT"
+    },
+    {
+        "currency_pair": "UQC/USDT",
+        "volume(24)": "484.74 USDT"
+    },
+    {
+        "currency_pair": "YOD/USDT",
+        "volume(24)": "492.44 USDT"
+    },
+    {
+        "currency_pair": "BVK/USDT",
+        "volume(24)": "339.54 USDT"
+    },
+    {
+        "currency_pair": "ITCM/USDT",
+        "volume(24)": "95.56 USDT"
+    },
+    {
+        "currency_pair": "BNB/USDT",
+        "volume(24)": "94.25 USDT"
+    },
+    {
+        "currency_pair": "ARK/USDT",
+        "volume(24)": "76.31 USDT"
+    },
+    {
+        "currency_pair": "TRX/USDT",
+        "volume(24)": "77.33 USDT"
+    },
+    {
+        "currency_pair": "SNB/USDT",
+        "volume(24)": "111.99 USDT"
+    },
+    {
+        "currency_pair": "NEO/USDT",
+        "volume(24)": "61.23 USDT"
+    },
+    {
+        "currency_pair": "PZM/USDT",
+        "volume(24)": "78.34 USDT"
+    },
+    {
+        "currency_pair": "DGB/USDT",
+        "volume(24)": "16.37 USDT"
+    },
+    {
+        "currency_pair": "XRP/USDT",
+        "volume(24)": "15.01 USDT"
+    },
+    {
+        "currency_pair": "WGR/USDT",
+        "volume(24)": "11.63 USDT"
+    },
+    {
+        "currency_pair": "ROOBEE/USDT",
+        "volume(24)": "8.07 USDT"
+    },
+    {
+        "currency_pair": "VRM/USDT",
+        "volume(24)": "0.36 USDT"
+    },
+    {
+        "currency_pair": "DOLLAR/USDT",
+        "volume(24)": "18.02 USDT"
+    },
+    {
+        "currency_pair": "DYN/USDT",
+        "volume(24)": "0.08 USDT"
+    },
+    {
+        "currency_pair": "LINK/USDT",
+        "volume(24)": "2.85 USDT"
+    },
+    {
+        "currency_pair": "HT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "IDH/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "IOST/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "FLIXX/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "USDC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "XMS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ATF/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "CHSB/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "BEZ/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SNX/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "UNRC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "TUBE/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SPF/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "BIT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "PLBT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "DIG/USDT",
+        "volume(24)": "1.39 USDT"
+    },
+    {
+        "currency_pair": "CAPS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "OMG/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ESR/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "NMC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SONIQ/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "CURE/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ECOT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "GIN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "RST/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MSCN/USDT",
+        "volume(24)": "1.10 USDT"
+    },
+    {
+        "currency_pair": "BARIN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ELF/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "eETT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "XBT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "WIN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "XAP/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SPT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MIOTA/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "WNL/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "OCN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "CCRB/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MNE/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "BTS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "RHOC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "XRC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "VMR/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "GOAL/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "EOSDAC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MOJO/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "PTI/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "XSCR/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "PAX/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SUMO/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ENT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "EVED/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MLN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "TFL/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "BID/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "DTR/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "UNUS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "AET/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "JOY/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ECHO/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ROBO/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "EOS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "FNC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MASH/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "PUT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ZERT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "wETT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "UTNP/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ORE/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "BNODE/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SHIFT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "QBT/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "INSN/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "TNS/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "NOX/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "MDC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "SXC/USDT",
+        "volume(24)": "0.00 USDT"
+    },
+    {
+        "currency_pair": "ANNE/USDT",
+        "volume(24)": "0.00 USDT"
+    }
+]
