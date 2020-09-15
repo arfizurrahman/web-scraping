@@ -22,3 +22,4 @@ class QuotesSpider(scrapy.Spider):
         if has_next:
             next_page_number = resp.get('page') + 1
             yield scrapy.Request(url=f'http://quotes.toscrape.com/api/quotes?page={next_page_number}', callback=self.parse)
+            
